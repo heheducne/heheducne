@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, im Duc 👋
 <a href="https://app.daily.dev/hducdudon"><img src="https://api.daily.dev/devcards/04c65933b28647958b2c00cc18c1ed47.png?r=pyz" width="300" alt="H E H E's Dev Card"/></a>
 <!--
 **heheducne/heheducne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently study at University of Information Technology 
+- 👯 I’m looking for an internshipment on UI/UX desgin or FrontEnd Developer
+- 📫 How to reach me: phuocducbui9@gmail.com
+- ⚡ Fun fact: im cool
